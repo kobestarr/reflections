@@ -1,0 +1,13 @@
+-What happens when you initialize a repository? Why do you need to do it?
+When you initialise a repository, using the "git init",  you add a .git file to your directory. This file is hidden from the user normally. This, however, lets git know that you want to track changes and it adds a fair amount of metadata to the files that you are using in the repository.
+
+it DOES NOT add any commits to the initial repository. It waits until you add them to the staging area and then to the repository.
+
+
+-How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The working directory is where all your current files are. This is where if you, as a user, were to look at the access using the GUI you would see all of the latest versions of the files.
+
+The staging area is where the files are presented before yo commit them to the repository. Here you can make changes about which files you want to include in which commit before using the official commit command, which saves the version/s to the git repository.
+
+The git repository contains all the different versions of all the files that you have added. From here you can compare  all of the different versions and then use them to proceed with your project. Once the files are in the git repository you can Compare with the different versions,  reverts to a previous version or simply proceed with the project.
