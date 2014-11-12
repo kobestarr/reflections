@@ -1,0 +1,2 @@
+When would you want to use a remote repository rather than keeping all your work local?
+- If you are working with other people or are working away from your local computer you can have all of the files for the documents in the same place. when you go back to your local computer you can push the changes down to it. You can also see the changes that other people have made to your code
