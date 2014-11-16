@@ -13,3 +13,7 @@ Branches are external as well and when you want to work on a repository that you
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 - It is good to have a copy of the last known state so that you can work on code seperately. and when you don't have acces to the internet. You can be safe in the knowledge that you can merge the local and the remote code at a later date. You will not miss out! 
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+- If you were collaborating without Git or GitHub you would have to send messages to each other each time you were to make a change. This would be harder in that you onely one person could work on the file at a time or that there would be greater risk of making conflicting errors. It is easier in the way that you dont have to use github! 
