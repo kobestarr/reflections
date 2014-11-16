@@ -3,3 +3,9 @@ When would you want to use a remote repository rather than keeping all your work
 
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+- Forks are internal to github. This is when you make a copy of someone elses repository the copy is made as a fork withink Github. You can fork anyones repository and use it if it is public. You would use this if you want to learn the code that someone else has used to do similar work. Or if you want to add to the work that someone else has done to make improvements and ting. You will not be able to re-contribute to the repository that you forked from via merging.
+
+Clones are external to github 
+
+Branches are external as well and when you want to work on a repository that you are a team member of. This means that you can then merge the repositories together after any augmentation has been completed. These arent really clones but are more taking the code and going in a different direction to what you would have done before.
