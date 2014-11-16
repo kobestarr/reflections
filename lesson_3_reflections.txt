@@ -9,3 +9,7 @@ Describe the differences between forks, clones, and branches. When would you use
 Clones are external to github 
 
 Branches are external as well and when you want to work on a repository that you are a team member of. This means that you can then merge the repositories together after any augmentation has been completed. These arent really clones but are more taking the code and going in a different direction to what you would have done before.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+- It is good to have a copy of the last known state so that you can work on code seperately. and when you don't have acces to the internet. You can be safe in the knowledge that you can merge the local and the remote code at a later date. You will not miss out! 
